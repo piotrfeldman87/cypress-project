@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+node_modules
+results
+screenshots
+videos
+package-lock.json
+mochawesome-report
+mochawesome.json

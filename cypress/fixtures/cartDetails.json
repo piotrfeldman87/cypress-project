@@ -1,0 +1,5 @@
+{
+    "cart_details": "\t<div class=\"empty_cart text-center\">\n\t\t<i class=\"fa fa-shopping-cart\"><\/i>\n\t<\/div>\n",
+    "item_count": 3,
+    "total": "TestPriceShoppingCart"
+}
