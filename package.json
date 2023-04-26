@@ -8,7 +8,8 @@
     "allTests": "npx cypress run",
     "mocha-merge": "npx mochawesome-merge cypress/results/mochawesome/*.json > mochawesome.json && npx marge mochawesome.json",
     "delete-mocha-reports": "rm -rf mochawesome-report/*",
-    "delete-mocha-json": "rm -rf cypress/results/mochawesome/*"
+    "delete-mocha-json": "rm -rf cypress/results/mochawesome/*",
+    "delete-mocha-json2": "rm -rf cypress/results/mochawesome/*"
 
   },
   "author": "Piotr Feldman",
